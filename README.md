@@ -16,11 +16,11 @@ Building intelligent systems that reason, act, and learn autonomously.
 ### 💼 Featured Projects
 | Project | Live Demo | Purpose |
 |----------|------------|----------|
-| **DocuDroid: AI Document Analysis Bot** | [Live Demo](https://docudroid.lemonbay-750e7928.centralindia.azurecontainerapps.io) | Analyzes uploaded documents and answers context-based queries using RAG. |
+| **DocuDroid: AI Document Analysis Bot** | [Live Demo](https://docudroid.lemonbay-750e7928.centralindia.azurecontainerapps.io) | Analyzes documents and answers context-based queries using RAG. |
 | **Flux Image Generator** | [Live Demo](https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net) | Generates AI-driven images from text prompts using Diffusion models. |
-| **RudeBot – Your Sassy AI Companion** | [Live Demo](https://rudebot-mistral.streamlit.app) | Engages in fun, sarcastic AI conversations powered by Mistral LLM. |
+| **RudeBot: Your Sassy AI Companion** | [Live Demo](https://rudebot-mistral.streamlit.app) | Engages in fun, sarcastic AI conversations powered by Mistral LLM. |
 | **FaceMask Detection (CNN / VGG16)** | [Live Demo](https://huggingface.co) | Detects mask compliance using deep learning image classification. |
-| **Mogambo Voice AI Scheduler** | [Live Demo](https://mogambo-calendar-assistant.onrender.com) | Voice-enabled agent that schedules and manages calendar events. |
+| **Mogambo: Voice AI Scheduler** | [Live Demo](https://mogambo-calendar-assistant.onrender.com) | Voice-enabled agent that schedules and manages calendar events. |
 | **Jurisol: AI-Powered Indian Legal Assistant** | [Live Demo](https://jurisol-legal-assistant-rag.onrender.com) | Automates legal Q&A, document summarization, and case retrieval. |
 | **Interview Prep Assistant (AI)** | [Live Demo](https://interview-prep-assistant.streamlit.app) | Simulates real interview sessions with adaptive question generation. |
 | **BikeValuePro: ML Price Predictor** | [Live Demo](https://usedbike-price-predictor-mlmodel.onrender.com) | Predicts used bike prices based on brand, model, and features. |
