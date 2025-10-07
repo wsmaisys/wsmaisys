@@ -14,12 +14,19 @@ Building intelligent systems that reason, act, and learn autonomously.
 ---
 
 ### 💼 Featured Projects
-| Project | Tech Stack | Purpose | Live Demo |
-|----------|-------------|----------|-----------|
-| **Bike Price Predictor** | Python, Scikit-learn, Streamlit | Predict used bike prices using regression models | [Live App](https://your-link-here) |
-| **Jurisol - Legal AI Assistant** | FastAPI, LangGraph, Mistral LLM, FAISS | Automates legal Q&A and summarization | [Repo](https://github.com/wsmaisys/jurisol-ai) |
-| **Google Calendar AI Agent** | LangChain, LangGraph, Google API | Natural language scheduling & automation | [Repo](https://github.com/wsmaisys/calendar-agent) |
-| **Resume Builder AI App** | Flask, HTML, PDFKit | Generates ATS-optimized resumes | [Live Demo](https://your-link-here) |
+| Project | Live Demo |
+|---|---|
+| **DocuDroid: AI Document Analysis Bot** | [Live Demo](https://docudroid.lemonbay-750e7928.centralindia.azurecontainerapps.io) |
+| **Flux Image Generator** | [Live Demo](https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net) |
+| **RudeBot – Your Sassy AI Companion** | [Live Demo](https://rudebot-mistral.streamlit.app) |
+| **FaceMask Detection (CNN / VGG16)** | [Live Demo](https://huggingface.co) |
+| **Mogambo Voice AI Scheduler** | [Live Demo](https://mogambo-calendar-assistant.onrender.com) |
+| **Jurisol: AI-Powered Indian Legal Assistant** | [Live Demo](https://jurisol-legal-assistant-rag.onrender.com) |
+| **Interview Prep Assistant (AI)** | [Live Demo](https://interview-prep-assistant.streamlit.app) |
+| **BikeValuePro: ML Price Predictor** | [Live Demo](https://usedbike-price-predictor-mlmodel.onrender.com) |
+| **Assignment Solver Agent** | [Live Demo](https://assignment-solving-agent.onrender.com) |
+| **Photo Journal App (GCP)** | [Live Demo](https://blog-app-699175796072.asia-south2.run.app) |
+| **Matchy: Text Similarity Detector** | [Live Demo](https://text-similarity-detector.onrender.com) |
 
 ---
 
