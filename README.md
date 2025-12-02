@@ -59,7 +59,7 @@ Versatile AI developer with a unique journey from law and retail entrepreneurshi
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wsmaisys&theme=dark&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wsmaisys)](https://git.io/streak-stats)
 
 ---
 
