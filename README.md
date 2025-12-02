@@ -45,7 +45,6 @@ Versatile AI developer with a unique journey from law and retail entrepreneurshi
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### **AI/ML & LLMs**
 `PyTorch` · `TensorFlow` · `LangChain` · `LangGraph` · `Mistral` · `OpenAI` · `Hugging Face` · `RAG` · `Vector DBs`
@@ -60,14 +59,8 @@ Versatile AI developer with a unique journey from law and retail entrepreneurshi
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wsmaisys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmaisys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wsmaisys&theme=dark&card_width=600&card_height=200)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsmaisys&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
 ---
 
 ## 🎯 Current Focus
