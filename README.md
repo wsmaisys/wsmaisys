@@ -23,6 +23,7 @@ Versatile AI developer with a unique journey from law and retail entrepreneurshi
 
 | Project | Tech Stack | Live Demo | Description |
 |---------|------------|-----------|-------------|
+| **🧳 AI Travel Planner** | Travel, Multi-Agent, CrewAI | [Live](https://multi-agent-travel-planner-crew.streamlit.app/) | Three AI Agents working together to research and prepare personlized travel plan based on user's preferences |
 | **🏥 MediFlow** | Healthcare AI, LLM, RAG | [Live](https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app/) | Post-discharge medical AI assistant providing personalized care guidance and medication management |
 | **🩺 Nephrology RAG MCP Tool** | RAG, MCP, Medical NLP | [MCP Server](https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp) | Specialized retrieval system for nephrology knowledge with Model Context Protocol integration |
 | **📄 PDF Excel Extractor** | Document AI, Structuring | [Live](https://pdf-excel-extractor-319169836562.us-central1.run.app/) | AI-powered tool for extracting and structuring data from PDFs into Excel format |
