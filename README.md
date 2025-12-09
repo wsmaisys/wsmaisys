@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Waseem M. Ansari  
+# 👋 Hi, I'm Wasim M. Ansari  
 🚀 **AI Engineer | Data Scientist | LLM & Agentic Systems Developer**  
 Building intelligent systems that reason, act, and learn autonomously.
 
