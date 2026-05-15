@@ -1,95 +1,201 @@
-# 👋 Hi, I'm Wasim M. Ansari  
-🚀 **AI Engineer | Data Scientist | LLM & Agentic Systems Developer**  
-Building intelligent systems that reason, act, and learn autonomously.
-
----
-
-## 🧠 About Me
-
-Versatile AI developer with a unique journey from law and retail entrepreneurship to data science and AI engineering. I specialize in building **LLM-powered agents**, **end-to-end ML pipelines**, and **production-ready AI solutions** that solve real-world problems.
-
-- 🎓 **Data Science Diploma** from **IIT Madras** (In Progress)
-- 🧩 Currently building **agentic workflows** with LangGraph, LangChain, and FastAPI
-- 🛠️ Deep expertise in **LLMs, RAG systems, MLOps, and autonomous AI pipelines**
-- 🔄 Cross-disciplinary thinker with experience in law, retail, and tech innovation
-- ✍️ Sharing AI insights and project learnings on [LinkedIn](https://www.linkedin.com/in/wsmaisys)
-- 💡 Open to **Data Science**, **AI Engineering**, and **Agentic AI** roles
-
-> *"My journey reflects adaptability and a passion for solving problems through technology. I thrive in environments that value innovation, continuous learning, and cross-disciplinary thinking."*
-
----
-
-## 💼 Featured Projects
-
-| Project | Tech Stack | Live Demo | Description |
-|---------|------------|-----------|-------------|
-| **🧳 AI Travel Planner** | Travel, Multi-Agent, CrewAI | [Live](https://multi-agent-travel-planner-crew.streamlit.app/) | Three AI Agents working together to research and prepare personlized travel plan based on user's preferences |
-| **🏥 MediFlow** | Healthcare AI, LLM, RAG | [Live](https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app/) | Post-discharge medical AI assistant providing personalized care guidance and medication management |
-| **🩺 Nephrology RAG MCP Tool** | RAG, MCP, Medical NLP | [MCP Server](https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp) | Specialized retrieval system for nephrology knowledge with Model Context Protocol integration |
-| **📄 PDF Excel Extractor** | Document AI, Structuring | [Live](https://pdf-excel-extractor-319169836562.us-central1.run.app/) | AI-powered tool for extracting and structuring data from PDFs into Excel format |
-| **🤖 DocuDroid** | RAG, LangChain, FastAPI | [Live](https://docudroid.lemonbay-750e7928.centralindia.azurecontainerapps.io) | AI-powered document analysis bot with context-aware Q&A using Retrieval Augmented Generation |
-| **⚖️ Jurisol** | LLM, RAG, Legal AI | [Live](https://jurisol-legal-assistant-rag.onrender.com) | Indian legal assistant for automated Q&A, document summarization, and case retrieval |
-| **📅 Mogambo** | Voice AI, Calendar API | [Live](https://mogambo-calendar-assistant.onrender.com) | Voice-enabled AI scheduler that manages calendar events through natural language |
-| **🎓 Assignment Solver Agent** | Multi-Agent, LangChain | [Live](https://assignment-solving-agent.onrender.com) | Multi-tool AI system that generates contextual academic answers with reasoning |
-| **🎨 Flux Image Generator** | Diffusion Models, AI Art | [Live](https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net) | Text-to-image generation using state-of-the-art diffusion models |
-| **💬 RudeBot** | Mistral LLM, Streamlit | [Live](https://rudebot-mistral.streamlit.app) | Sassy AI companion with personality-driven conversations |
-| **🎤 Interview Prep Assistant** | LLM, Adaptive Learning | [Live](https://interview-prep-assistant.streamlit.app) | AI interview simulator with adaptive question generation and feedback |
-| **💰 BikeValuePro** | ML, Regression, FastAPI | [Live](https://usedbike-price-predictor-mlmodel.onrender.com) | Used bike price predictor using ensemble ML models |
-| **😷 FaceMask Detection** | CNN, VGG16, Computer Vision | [Live](https://huggingface.co) | Deep learning model for real-time mask compliance detection |
-| **📝 Matchy** | Embeddings, NLP | [Live](https://text-similarity-detector.onrender.com) | Semantic similarity detection using sentence embeddings |
-| **📸 Photo Journal App** | GCP, Cloud Run, Docker | [Live](https://blog-app-699175796072.asia-south2.run.app) | Secure image-based blog application deployed on Google Cloud |
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **AI/ML & LLMs**
-`PyTorch` · `TensorFlow` · `LangChain` · `LangGraph` · `Mistral` · `OpenAI` · `Hugging Face` · `RAG` · `Vector DBs`
-
-### **Data Science**
-`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `SQL` · `PostgreSQL`
-
-### **MLOps & Deployment**
-`Docker` · `Azure` · `GCP` · `Render` · `Git` · `CI/CD` · `REST APIs`
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wsmaisys)](https://git.io/streak-stats)
-
----
-
-## 🎯 Current Focus
-
-- 🔬 Building **multi-agent systems** with complex reasoning capabilities
-- 🏗️ Developing **production-grade RAG applications** for enterprise use cases
-- 📊 Exploring **fine-tuning techniques** for domain-specific LLMs
-- ⚡ Optimizing **inference speed** and **cost-efficiency** for LLM deployments
-
----
-
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wsmaisys.github.io/waseemmansari.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wsmaisys)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wsmaisys@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wsmaisys)
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Wasim%20Ansari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20Agentic%20Systems%20%7C%20Deep%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+that+reasons%2C+retrieves+%26+acts;GraphRAG+%7C+LangGraph+%7C+FastAPI+%7C+Deep+Learning;15%2B+Deployed+AI+Projects+%7C+Open+to+Roles;Law+%26+Retail+%E2%86%92+AI+Engineer+%E2%80%94+The+Long+Game" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://wsmaisys.github.io/waseemmansari.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wsmaisys)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wsmaisys@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/wasimansari786)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wsmaisys)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
 
 ---
 
-<div align="center">
-  
-**💡 Open to collaborations on AI/ML projects | Let's build something amazing together!**
+## 🧠 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=wsmaisys&color=blueviolet&style=flat-square)
+> *"I don't just train models — I build systems that think, retrieve, plan, and act."*
+
+I'm an **AI Engineer & Data Scientist** who took an unconventional path — from law and retail entrepreneurship to building production-grade LLM systems. That cross-domain background is my edge: I understand messy real-world data problems that pure-track engineers often miss.
+
+- 🎓 **Data Science Diploma** — IIT Madras | Targeting **higher studies Sep 2026** (UK · Canada · Europe)
+- ⚙️ Specializing in **Agentic AI**, **GraphRAG**, **LLM tool-chaining**, and **end-to-end ML pipelines**
+- 🚀 **15+ AI projects deployed** on GCP, Azure, Render, and Hugging Face
+- 🌍 Open to roles in **India · UK · Canada · UAE · Europe** — remote-friendly
+- 🔬 Self-studying **Reinforcement Learning** | Strong stats & linear algebra foundation
+
+---
+
+## 🚀 Flagship Projects
+
+### 🍽️ Neo4j GraphRAG — Food Recipe Search by Ingredients *(Under Active Development)*
+> **Advanced Hybrid RAG | Knowledge Graph | Semantic + Structural Retrieval**
+
+A next-generation recipe discovery engine that fuses **graph traversal** with **vector similarity search** — far beyond keyword matching. The knowledge graph captures ingredient–recipe–cuisine ontology; the vector layer handles semantic ingredient relationships. Hybrid fusion re-ranks using both scores simultaneously.
+
+```
+Ingredients In → Graph Traversal + Cosine Similarity → Ranked Recipes + Reasoning Out
+```
+
+**Stack:** `Neo4j` · `LangChain` · `Mistral / OpenAI Embeddings` · `FastAPI` · `Hybrid RAG`
+
+**What makes this architecturally advanced:**
+- 🔗 Knowledge graph encodes ingredient–substitution–cuisine relationships as graph edges
+- 🧬 Vector layer handles fuzzy, semantic ingredient matching across languages/variants
+- 🔀 Hybrid fusion layer re-ranks using both graph scores and cosine similarity
+- ⚡ Designed for sub-second real-time querying on unknown ingredient combos
+
+[![Repo](https://img.shields.io/badge/GitHub-In%20Development-FF6B6B?style=flat-square&logo=github)](https://github.com/wsmaisys/neo4j-graphrag-recipe-search)
+
+---
+
+### 🎵 Messy Mashup — Music Genre Classification on Noisy Audio
+> **Deep Learning | Multi-Model | W&B Experiment Tracking | IIT Madras Diploma Project**
+
+Real-world audio doesn't come clean. This project classifies music genres from **genuinely noisy, unprocessed audio** — designed with engineering rigor over leaderboard chasing. Multiple architectures tracked, compared, and documented end-to-end.
+
+```
+Noisy Audio → Mel Spectrograms → CNN / ResNet / Custom DL → Genre Labels (Macro F1)
+```
+
+**Stack:** `PyTorch` · `Librosa` · `Weights & Biases` · `Kaggle` · `Scikit-learn`
+
+**Engineering highlights:**
+- 🎚️ Robust audio preprocessing pipeline built for real-world noise conditions
+- 📊 Multi-model experiment tracking via W&B — reproducible, comparable, documented
+- 🏗️ Clean modular codebase: train → evaluate → compare → iterate
+- 🎯 Macro F1 optimized across imbalanced genre classes
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Project-8B5CF6?style=flat-square&logo=github)](https://github.com/wsmaisys/messy-mashup)
+
+---
+
+## 💼 Full Project Portfolio
+
+| Project | Description | Stack | Demo |
+|---|---|---|---|
+| 🧳 **AI Travel Planner** | Three AI agents collaborating to build personalized travel plans | CrewAI, Multi-Agent | [Live ↗](https://multi-agent-travel-planner-crew.streamlit.app/) |
+| 🏥 **MediFlow** | Post-discharge AI medical assistant — medication management & care guidance | Healthcare AI, LLM, RAG | [Live ↗](https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app/) |
+| 🩺 **Nephrology RAG MCP** | Specialized nephrology knowledge retrieval with Model Context Protocol | RAG, MCP, Medical NLP | [MCP Server ↗](https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp) |
+| ⚖️ **Jurisol** | Indian legal assistant — Q&A, document summarization, case retrieval | LangGraph, Mistral, RAG | [Live ↗](https://jurisol-legal-assistant-rag.onrender.com) |
+| 📅 **Mogambo** | Voice-enabled AI scheduler via natural language | LangGraph, Google Calendar API | [Live ↗](https://mogambo-calendar-assistant.onrender.com) |
+| 🤖 **DocuDroid** | Context-aware document Q&A with RAG | LangChain, FastAPI, Azure | [Live ↗](https://docudroid.lemonbay-750e7928.centralindia.azurecontainerapps.io) |
+| 📄 **PDF Excel Extractor** | AI-powered PDF → structured Excel extraction | Document AI | [Live ↗](https://pdf-excel-extractor-319169836562.us-central1.run.app/) |
+| 🎓 **Assignment Solver Agent** | Multi-tool AI with contextual academic reasoning | Multi-Agent, LangChain | [Live ↗](https://assignment-solving-agent.onrender.com) |
+| 🎨 **Flux Image Generator** | Text-to-image generation with diffusion models | Diffusion Models, Azure | [Live ↗](https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net) |
+| 🎤 **Interview Prep Assistant** | Adaptive AI interview simulator with real-time feedback | LLM, Adaptive Learning | [Live ↗](https://interview-prep-assistant.streamlit.app) |
+| 💰 **BikeValuePro** | Used bike price predictor — ensemble ML models | Scikit-learn, FastAPI | [Live ↗](https://usedbike-price-predictor-mlmodel.onrender.com) |
+| 😷 **FaceMask Detection** | Real-time mask compliance detection | CNN, VGG16, Computer Vision | [HF ↗](https://huggingface.co) |
+| 📝 **Matchy** | Semantic similarity detection via sentence embeddings | NLP, Embeddings | [Live ↗](https://text-similarity-detector.onrender.com) |
+| 📸 **Photo Journal App** | Secure image blog deployed on GCP Cloud Run | GCP, Docker | [Live ↗](https://blog-app-699175796072.asia-south2.run.app) |
+| 💬 **RudeBot** | Personality-driven conversational AI | Mistral LLM, Streamlit | [Live ↗](https://rudebot-mistral.streamlit.app) |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+**Agentic / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robotframework&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Data & Retrieval**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Deployment & MLOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wsmaisys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmaisys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wsmaisys&theme=tokyonight&hide_border=true" width="500"/>
+
+</div>
+
+---
+
+## 🧩 Domain Edge
+
+> *Most AI engineers write models. Few understand the domains they're solving for.*
+
+| Domain | What I Bring |
+|---|---|
+| ⚖️ **Legal** | Document comprehension, intent classification, structured reasoning — built Jurisol end-to-end |
+| 🛍️ **Retail** | Customer behaviour patterns, demand signals, real-world messy data intuition |
+| 🤖 **Agentic AI** | Tool-chaining, StateGraph design, fallback handling, multi-step planning |
+| 🔬 **Research** | Self-studying Reinforcement Learning; solid stats & linear algebra foundation |
+| ☁️ **Cloud & MLOps** | 15+ services deployed across GCP, Azure, Render — not just notebooks |
+
+---
+
+## 🎯 Currently Building
+
+- 🕸️ **Neo4j GraphRAG Recipe Search** — Advanced Hybrid RAG with knowledge graph
+- 🎵 **Messy Mashup** — Music genre classification on noisy audio (IIT Madras Diploma)
+- 📐 **Reinforcement Learning** — Self-study track, theory + hands-on coding
+- 🔬 **Fine-tuning experiments** for domain-specific LLM deployments
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **ML/DL Engineer**, **Data Scientist**, and **AI Researcher** roles — remote-friendly, open to relocation across **UK · Canada · UAE · Europe**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wsmaisys.github.io/waseemmansari.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wsmaisys)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wsmaisys@gmail.com)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/wasimansariiitm)
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=wsmaisys&color=blueviolet&style=flat-square)](https://github.com/wsmaisys)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
