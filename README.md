@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+that+reasons%2C+retrieves+%26+acts;GraphRAG+%7C+LangGraph+%7C+FastAPI+%7C+Deep+Learning;15%2B+Deployed+AI+Projects+%7C+Open+to+Roles;Law+%26+Retail+%E2%86%92+AI+Engineer+%E2%80%94+The+Long+Game" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+that+reasons%2C+retrieves+%26+acts;GraphRAG+%7C+LangGraph+%7C+FastAPI+%7C+Deep+Learning;15%2B+Deployed+AI+Projects+%7C+Open+to+Roles;Law+%2B+Business+-->+AI+Engineer+-+The+Long+Game" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -149,10 +149,10 @@ Noisy Audio → Mel Spectrograms → CNN / ResNet / Custom DL → Genre Labels (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wsmaisys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmaisys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wsmaisys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=3600" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmaisys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wsmaisys&theme=tokyonight&hide_border=true" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=wsmaisys&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
