@@ -27,7 +27,7 @@
 
 I'm an **AI Engineer & Data Scientist** who took an unconventional path — from law and retail entrepreneurship to building production-grade LLM systems. That cross-domain background is my edge: I understand messy real-world data problems that pure-track engineers often miss.
 
-- 🎓 **Data Science Diploma** — IIT Madras | Targeting **higher studies Sep 2026** (UK · Canada · Europe)
+- 🎓 **Data Science** — IIT Madras Alumni with Generative AI Specialization
 - ⚙️ Specializing in **Agentic AI**, **GraphRAG**, **LLM tool-chaining**, and **end-to-end ML pipelines**
 - 🚀 **15+ AI projects deployed** on GCP, Azure, Render, and Hugging Face
 - 🌍 Open to roles in **India · UK · Canada · UAE · Europe** — remote-friendly
@@ -64,7 +64,7 @@ Ingredients In → Graph Traversal + Cosine Similarity → Ranked Recipes + Reas
 Real-world audio doesn't come clean. This project classifies music genres from **genuinely noisy, unprocessed audio** — designed with engineering rigor over leaderboard chasing. Multiple architectures tracked, compared, and documented end-to-end.
 
 ```
-Noisy Audio → Mel Spectrograms → CNN / ResNet / Custom DL → Genre Labels (Macro F1)
+Noisy Audio → Mel Spectrograms → AST Transformer Finetuned → Genre Labels (Macro F1)
 ```
 
 **Stack:** `PyTorch` · `Librosa` · `Weights & Biases` · `Kaggle` · `Scikit-learn`
@@ -165,7 +165,7 @@ Noisy Audio → Mel Spectrograms → CNN / ResNet / Custom DL → Genre Labels (
 | Domain | What I Bring |
 |---|---|
 | ⚖️ **Legal** | Document comprehension, intent classification, structured reasoning — built Jurisol end-to-end |
-| 🛍️ **Retail** | Customer behaviour patterns, demand signals, real-world messy data intuition |
+| 🛍️ **Business** | Customer behaviour patterns, demand signals, real-world messy data intuition |
 | 🤖 **Agentic AI** | Tool-chaining, StateGraph design, fallback handling, multi-step planning |
 | 🔬 **Research** | Self-studying Reinforcement Learning; solid stats & linear algebra foundation |
 | ☁️ **Cloud & MLOps** | 15+ services deployed across GCP, Azure, Render — not just notebooks |
@@ -183,7 +183,7 @@ Noisy Audio → Mel Spectrograms → CNN / ResNet / Custom DL → Genre Labels (
 
 ## 📬 Let's Connect
 
-I'm actively looking for **ML/DL Engineer**, **Data Scientist**, and **AI Researcher** roles — remote-friendly, open to relocation across **UK · Canada · UAE · Europe**.
+I'm actively looking for **ML/DL Engineer**, **Data Scientist**, and **AI Engineer** roles — remote-friendly, open to relocation across **UK · Canada · UAE · Europe**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wsmaisys.github.io/waseemmansari.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wsmaisys)
