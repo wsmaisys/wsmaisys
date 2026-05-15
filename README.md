@@ -149,8 +149,8 @@ Noisy Audio → Mel Spectrograms → CNN / ResNet / Custom DL → Genre Labels (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wsmaisys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=3600" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmaisys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=wsmaisys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=3600" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wsmaisys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=wsmaisys&theme=tokyonight&hide_border=true" width="500"/>
 
